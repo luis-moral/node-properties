@@ -1,2 +1,9 @@
 # node-properties
-Extended properties with token-value based nodes.
+
+```
+<dependency>
+    <groupId>es.molabs</groupId>
+    <artifactId>node-properties</artifactId>
+    <version>1.0.0</version>
+</dependency>
+```
